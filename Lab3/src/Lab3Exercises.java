@@ -6,7 +6,7 @@ public class Lab3Exercises {
 		myFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		myFrame.setLocation(850, 300);
 		myFrame.setSize(200, 200);
-		myFrame.setTitle("Kevin Perez Gali");
+		myFrame.setTitle("Kevin L. Perez Gali");
 		myFrame.setVisible(true);
 	}
 }
